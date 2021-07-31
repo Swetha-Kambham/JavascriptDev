@@ -1,0 +1,41 @@
+body{
+        background-color:ADDADA;
+        padding:10px;
+        background: url("https://i.pinimg.com/originals/a7/3d/6e/a73d6e4ac85c6a822841e449b24c78e1.jpg");
+        color:white;
+}
+p{
+    font-size: 2em;
+    text-align: center;
+    color: bisque;
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: thin;
+    width: 200px;
+
+}
+h1{
+    background-color: cyan;
+}
+#id{
+    color:coral;
+}
+.para
+{
+    color:darkorchid;
+    width:20%;
+}
+.Abio
+{
+    color: deeppink;
+}
+div > p{
+    color:mediumslateblue;
+    border:none;
+}
+div p{
+    color:green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+        
